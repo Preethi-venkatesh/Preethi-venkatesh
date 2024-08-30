@@ -13,7 +13,7 @@ In my free time, I enjoy exploring new design trends, experimenting with differe
 ### 💻 [My Website](https://preethiuxdesigner.squarespace.com/)
 ### 📷 [Photography](https://preethiuxdesigner.squarespace.com/photography)
 <img src="image.jpg">
-!(image.jpg)
+
 
 
 <!--
