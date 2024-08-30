@@ -1,4 +1,10 @@
-## Hi there 👋
+# 👋 Hi there, I'm Preethi!
+## A User Experience Designer based in Phoenix.
+### I am here to help turn your dreams and ideas into focused clear products while Designing a unique and uncharted user experience!!
+> The world is constantly evolving thanks to designers centring their process around the user. Creatives design an experience through a series of touch-points that form the framework to have a meaningful interaction. It starts with understanding what the user wants
+REACH OUT TO ME!
+[Portfolio](https://preethiuxdesigner.squarespace.com/)
+
 
 <!--
 **Preethi-venkatesh/Preethi-venkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
