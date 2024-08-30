@@ -10,7 +10,7 @@ In my free time, I enjoy exploring new design trends, experimenting with differe
 > The world is constantly evolving thanks to designers centring their process around the user. Creatives design an experience through a series of touch-points that form the framework to have a meaningful interaction. It starts with understanding what the user wants
 
 ### REACH OUT TO ME!
-### 💻 [Portfolio](https://preethiuxdesigner.squarespace.com/)
+### 💻 [My Website](https://preethiuxdesigner.squarespace.com/)
 
 
 <!--
